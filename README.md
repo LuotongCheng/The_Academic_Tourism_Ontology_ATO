@@ -11,3 +11,7 @@ The original dataset includes three travel accounts documenting journeys through
 - **annotation_guideline.pdf**: A comprehensive guide for annotating travelogs.
 - **sample_annotations.pdf**: Sample annotations demonstrating the application of ATO.
 - **ATO.rdf**: The RDF version of the ontology.
+
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). To view a copy of this license, see the [LICENSE.md](./LICENSE.md) file for details.
